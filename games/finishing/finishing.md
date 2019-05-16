@@ -10,13 +10,15 @@ Die Spielerinnen wählen sehr oft die für die Situation passende Form des Absch
 Die Verteidigung steht mit dem Gesicht zum Korb und die Angreiferin steht mit dem Ball direkt hinter hier. Sie legt/drückt den Ball auf den Rücken der Verteidigung.  
 Das Spiel beginnt, sobald der Ball den Rücken der Verteidigerin nicht mehr berührt.
 
-### Touch the Cone
+### Touch the cone
 
 Auf den Freiwurfecken stehen 2 Hütchen, Stühle oder ähnliches.  
 An der 3er-Linie (oder etwas näher) auf der Korb-Korb-Linie steht die Angreiferin.  
 In der Mitte der Zone steht die Verteidigerin.  
 Die Verteidigerin rennt zu einem Hütchen und berührt dieses. Danach versucht sie die Angreiferin aufzuhalten.  
 Sobald die Verteidigerin losläuft, darf die Angreiferin starten. Sie kann wählen, um welches Hütchen sie dribblen will...
+
+![Touch the cone](./img/touch_the_cone.png)
 
 ### Handover
 
@@ -32,10 +34,22 @@ Sobald beide angekommen sind, passt die Spielerin mit dem Ball zur gegenüber st
 
 Die andere Spielerin greift sofort an, sobald sie den Ball hat.
 
+**Varianten**:
+
+- Dribblemoves bis zur Mittelliine
+- Laufschule bis zur Mittellinie
+
+![Cross Pass Transtion](./img/sideline_dribblings.png)
+
 ### Head to Head
 
 Offense und Defense stehen nebeneinander mit dem Gesicht zum Korb an der Dreierlinie.  
 Offense dribbelt den Ball. Sobald die Offense startet, darf die Defense auch starten.
+
+**Varianten**:
+
+- Position der Verteidigung ändern um Vorteil zu verkleiner/vergrößern
+- Über die Postion der Verteidigung kann auch die Variante des Abschlusses gesteuert werden.
 
 ### Russian 1on1
 
@@ -43,6 +57,7 @@ Beide Spielerinnen stehen in den gegenüberliegenden Ecken der Grundlinie.
 Eine Spielerin hat den Ball.
 Beide Spielerinnen laufen gleichzeitig an der Dreierlinie entlang, um sich auf der Korb-Korblinie zu treffen.  
 Die Spiellerin mit dem Ball läuft etwas weiter innen und macht einen Dribble Handover mit
+![Russian 1on1](./img/russian.png)
 
 <!-- ## 1on1 mit Vorteil für die Offense (mit Passer) -->
 <!-- ## 1on1 Chase -->
