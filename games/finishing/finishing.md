@@ -39,7 +39,7 @@ Die andere Spielerin greift sofort an, sobald sie den Ball hat.
 - Dribblemoves bis zur Mittelliine
 - Laufschule bis zur Mittellinie
 
-![Cross Pass Transtion](./img/sideline_dribblings.png)
+ø![Cross Pass Transtion](./img/sideline_dribblings.png)
 
 ### Head to Head
 
