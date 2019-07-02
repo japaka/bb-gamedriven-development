@@ -59,5 +59,18 @@ Beide Spielerinnen laufen gleichzeitig an der Dreierlinie entlang, um sich auf d
 Die Spiellerin mit dem Ball läuft etwas weiter innen und macht einen Dribble Handover mit
 ![Russian 1on1](./img/russian.png)
 
+### Katz und Maus
+
+Je nach Altersgruppe steht ein Hütchen entweder an der Dreierlinie oder etwas näher zum Korb zwischen Angreiferin und Verteidigerin.
+
+Die Verteidigerin startet das Spiel in dem Sie auf einer Seite um das Hütchen läuft, um zu verteidigen.
+Die Angreiferin dribbelt auf der freien Seite zum Korb (hoffentlich)
+
+#### Varianten
+
+1. Angreiferin dribbelt mit einer Hand während sie wartet
+2. Angreiferin macht Handwechsel während sie wartet
+3. Der Ball wird zur Angreiferin gepasst und beide müssen bei Ballerhalt starten.
+
 <!-- ## 1on1 mit Vorteil für die Offense (mit Passer) -->
 <!-- ## 1on1 Chase -->

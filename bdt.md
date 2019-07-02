@@ -18,6 +18,7 @@ Die Lowpost Spielerin sollte beim Fangen des Ball kurz beide Füße in der Lust 
 - 2 Hände: Brustpass
 - 1 Hand an der Seite: Hand treffen
 - Cut von Passer: One on One Move und weiter machen auf der anderen Seite
-- Faust: Pick and Roll
+- Faust und Ball in der Hand: Pick and Roll
   - Abrollen und Werfen (Short Corner oder Highpost)
   - Bei retreat dribble: Rescreen (twist)
+- Faust ohne Ball: DHO (Grenade) aus dem Lowpost
